@@ -2,7 +2,6 @@
 dgraph-docker-compose 安装
 
 ###  启动  
-
 ```
  docker-compose up -d
  
@@ -13,3 +12,4 @@ dgraph-docker-compose 安装
 ```
 http://hostip:8081
 ```
+
